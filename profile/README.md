@@ -2,18 +2,18 @@
 
 This group contains repositories with projects in the area of simulations of railway networks. The core project is the yaramo model, which acts as an interchange format of railway networks. 
 The yaramo model can be created by source in Python or via three importers:
-[PlanPro importer](https://github.com/simulate-digital-rail/planpro-importer)
-[OpenRailwayMap importer](https://github.com/simulate-digital-rail/orm-importer)
-[CLI importer](https://github.com/simulate-digital-rail/cli-importer)
+- [PlanPro importer](https://github.com/simulate-digital-rail/planpro-importer)
+- [OpenRailwayMap importer](https://github.com/simulate-digital-rail/orm-importer)
+- [CLI importer](https://github.com/simulate-digital-rail/cli-importer)
 
 The model can be enriched by the following tools:
-[Railway Route Generator](https://github.com/simulate-digital-rail/railway-route-generator)
+- [Railway Route Generator](https://github.com/simulate-digital-rail/railway-route-generator)
 
 The model can be exported to the following formats or be used as an input for the following advanced logics:
-[PlanPro exporter](https://github.com/simulate-digital-rail/planpro-exporter)
-[RailML exporter](https://github.com/simulate-digital-rail/railml-exporter)
-[SUMO simulation model exporter](https://github.com/simulate-digital-rail/sumo-exporter)
-[Interlocking logic](https://github.com/simulate-digital-rail/interlocking)
+- [PlanPro exporter](https://github.com/simulate-digital-rail/planpro-exporter)
+- [RailML exporter](https://github.com/simulate-digital-rail/railml-exporter)
+- [SUMO simulation model exporter](https://github.com/simulate-digital-rail/sumo-exporter)
+- [Interlocking logic](https://github.com/simulate-digital-rail/interlocking)
 
 ## Examples
 There are some example usages [here](https://github.com/simulate-digital-rail/demo), [here](https://github.com/simulate-digital-rail/planpro-importer/tree/main/example), [here](https://github.com/simulate-digital-rail/railway-route-generator/tree/main/test) and [here](https://github.com/simulate-digital-rail/sumo-exporter/tree/main/examples).
