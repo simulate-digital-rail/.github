@@ -26,7 +26,7 @@ The current version of the environment is the yaramo 1 version. Version 2 of the
 | [yaramo](https://github.com/simulate-digital-rail/yaramo) | [~= 1.0](https://github.com/simulate-digital-rail/yaramo/tree/v1.0) | [~= 2.0](https://github.com/simulate-digital-rail/yaramo/tree/yaramo2) WIP |
 | [planpro-importer](https://github.com/simulate-digital-rail/planpro-importer) | [~= 2.0](https://github.com/simulate-digital-rail/planpro-importer/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/planpro-importer/tree/yaramo2)
 | [cli-importer](https://github.com/simulate-digital-rail/cli-importer) | [~= 2.0](https://github.com/simulate-digital-rail/cli-importer/tree/v2.0) | Not yet implemented |
-| [orm-importer](https://github.com/simulate-digital-rail/orm-importer) | [~= 2.0](https://github.com/simulate-digital-rail/orm-importer/tree/v2.0) | Not yet implemented |
+| [orm-importer](https://github.com/simulate-digital-rail/orm-importer) | [~= 2.0](https://github.com/simulate-digital-rail/orm-importer/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/orm-importer/tree/yaramo2) WIP |
 | [railway-route-generator](https://github.com/simulate-digital-rail/railway-route-generator) | [~= 4.0](https://github.com/simulate-digital-rail/railway-route-generator/tree/v4.0) | Not yet implemented |
 | [planpro-exporter](https://github.com/simulate-digital-rail/planpro-exporter) | [~= 2.0](https://github.com/simulate-digital-rail/planpro-exporter/tree/v2.0) | Not yet implemented |
 | [sumo-exporter](https://github.com/simulate-digital-rail/sumo-exporter) | [~= 3.0](https://github.com/simulate-digital-rail/sumo-exporter/tree/v3.0) | Not yet implemented |
