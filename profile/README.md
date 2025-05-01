@@ -13,6 +13,7 @@ The model can be exported to the following formats or be used as an input for th
 - [PlanPro exporter](https://github.com/simulate-digital-rail/planpro-exporter)
 - [RailML exporter](https://github.com/simulate-digital-rail/railml-exporter)
 - [SUMO simulation model exporter](https://github.com/simulate-digital-rail/sumo-exporter)
+- [TikZ exporter](https://github.com/simulate-digital-rail/tikz-exporter)
 - [Interlocking logic](https://github.com/simulate-digital-rail/interlocking)
 
 ## Examples
@@ -31,6 +32,7 @@ The current version of the environment is the yaramo 1 version. Version 2 of the
 | [planpro-exporter](https://github.com/simulate-digital-rail/planpro-exporter) | [~= 2.0](https://github.com/simulate-digital-rail/planpro-exporter/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/planpro-exporter/tree/yaramo2) |
 | [sumo-exporter](https://github.com/simulate-digital-rail/sumo-exporter) | [~= 3.0](https://github.com/simulate-digital-rail/sumo-exporter/tree/v3.0) | [~= 4.0](https://github.com/simulate-digital-rail/sumo-exporter/tree/yaramo2) |
 | [railml-exporter](https://github.com/simulate-digital-rail/railml-exporter) | [~= 1.0](https://github.com/simulate-digital-rail/railml-exporter/tree/v1.0) | Not yet implemented |
+| [tikz-exporter](https://github.com/simulate-digital-rail/tikz-exporter) | Not supported | [~=0.9] |
 | [interlocking](https://github.com/simulate-digital-rail/interlocking) | [~= 4.0](https://github.com/simulate-digital-rail/interlocking/tree/v4.0) | Not yet implemented |
 | [interlocking-logic-monitor](https://github.com/simulate-digital-rail/interlocking-logic-monitor) | [~= 2.0](https://github.com/simulate-digital-rail/interlocking-logic-monitor/tree/v2.0) | Not yet implemented |
 | [demo](https://github.com/simulate-digital-rail/demo) | [~= 2.0](https://github.com/simulate-digital-rail/demo/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/demo/tree/yaramo2) |
