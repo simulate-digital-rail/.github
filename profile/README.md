@@ -1,13 +1,14 @@
 # Simulate Digital Rail
 
 This group contains repositories with projects in the area of simulations of railway networks. The core project is the yaramo model, which acts as an interchange format of railway networks. 
-The yaramo model can be created by source in Python or via three importers:
+The [yaramo model](https://github.com/simulate-digital-rail/yaramo/) can be created by source in Python or via three importers:
 - [PlanPro importer](https://github.com/simulate-digital-rail/planpro-importer)
 - [OpenRailwayMap importer](https://github.com/simulate-digital-rail/orm-importer)
 - [CLI importer](https://github.com/simulate-digital-rail/cli-importer)
 
 The model can be enriched by the following tools:
 - [Railway Route Generator](https://github.com/simulate-digital-rail/railway-route-generator)
+- [Schematic Converter](https://github.com/simulate-digital-rail/schematic-converter)
 
 The model can be exported to the following formats or be used as an input for the following advanced logics:
 - [PlanPro exporter](https://github.com/simulate-digital-rail/planpro-exporter)
@@ -24,18 +25,19 @@ The current version of the environment is the yaramo 1 version. Version 2 of the
 
 | Project | yaramo 1 | yaramo 2 |
 | ------- | -------- | -------- |
-| [yaramo](https://github.com/simulate-digital-rail/yaramo) | [~= 1.0](https://github.com/simulate-digital-rail/yaramo/tree/v1.0) | [~= 2.0](https://github.com/simulate-digital-rail/yaramo/tree/yaramo2) WIP |
-| [planpro-importer](https://github.com/simulate-digital-rail/planpro-importer) | [~= 2.0](https://github.com/simulate-digital-rail/planpro-importer/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/planpro-importer/tree/yaramo2)
-| [cli-importer](https://github.com/simulate-digital-rail/cli-importer) | [~= 2.0](https://github.com/simulate-digital-rail/cli-importer/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/cli-importer/tree/yaramo2) |
-| [orm-importer](https://github.com/simulate-digital-rail/orm-importer) | [~= 2.0](https://github.com/simulate-digital-rail/orm-importer/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/orm-importer/tree/yaramo2) WIP |
-| [railway-route-generator](https://github.com/simulate-digital-rail/railway-route-generator) | [~= 4.0](https://github.com/simulate-digital-rail/railway-route-generator/tree/v4.0) | [~= 5.0](https://github.com/simulate-digital-rail/railway-route-generator/tree/yaramo2) |
-| [planpro-exporter](https://github.com/simulate-digital-rail/planpro-exporter) | [~= 2.0](https://github.com/simulate-digital-rail/planpro-exporter/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/planpro-exporter/tree/yaramo2) |
-| [sumo-exporter](https://github.com/simulate-digital-rail/sumo-exporter) | [~= 3.0](https://github.com/simulate-digital-rail/sumo-exporter/tree/v3.0) | [~= 4.0](https://github.com/simulate-digital-rail/sumo-exporter/tree/yaramo2) |
+| [yaramo](https://github.com/simulate-digital-rail/yaramo) | [~= 1.0](https://github.com/simulate-digital-rail/yaramo/tree/v1.0) | [~= 2.1](https://github.com/simulate-digital-rail/yaramo/) |
+| [planpro-importer](https://github.com/simulate-digital-rail/planpro-importer) | [~= 2.0](https://github.com/simulate-digital-rail/planpro-importer/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/planpro-importer/)
+| [cli-importer](https://github.com/simulate-digital-rail/cli-importer) | [~= 2.0](https://github.com/simulate-digital-rail/cli-importer/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/cli-importer/) |
+| [orm-importer](https://github.com/simulate-digital-rail/orm-importer) | [~= 2.0](https://github.com/simulate-digital-rail/orm-importer/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/orm-importer/) |
+| [railway-route-generator](https://github.com/simulate-digital-rail/railway-route-generator) | [~= 4.0](https://github.com/simulate-digital-rail/railway-route-generator/tree/v4.0) | [~= 5.1](https://github.com/simulate-digital-rail/railway-route-generator/) |
+| [schematic-converter](https://github.com/simulate-digital-rail/schematic-converter) | Not supported | [~= 1.1](https://github.com/simulate-digital-rail/schematic-converter) |
+| [planpro-exporter](https://github.com/simulate-digital-rail/planpro-exporter) | [~= 2.0](https://github.com/simulate-digital-rail/planpro-exporter/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/planpro-exporter/) |
+| [sumo-exporter](https://github.com/simulate-digital-rail/sumo-exporter) | [~= 3.0](https://github.com/simulate-digital-rail/sumo-exporter/tree/v3.0) | [~= 4.1](https://github.com/simulate-digital-rail/sumo-exporter/) |
 | [railml-exporter](https://github.com/simulate-digital-rail/railml-exporter) | [~= 1.0](https://github.com/simulate-digital-rail/railml-exporter/tree/v1.0) | Not yet implemented |
 | [tikz-exporter](https://github.com/simulate-digital-rail/tikz-exporter) | Not supported | [~= 1.0](https://github.com/simulate-digital-rail/tikz-exporter) |
-| [interlocking](https://github.com/simulate-digital-rail/interlocking) | [~= 4.0](https://github.com/simulate-digital-rail/interlocking/tree/v4.0) | [~= 5.0](https://github.com/simulate-digital-rail/interlocking/tree/yaramo2) |
-| [interlocking-logic-monitor](https://github.com/simulate-digital-rail/interlocking-logic-monitor) | [~= 2.0](https://github.com/simulate-digital-rail/interlocking-logic-monitor/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/interlocking-logic-monitor/tree/yaramo2) |
-| [demo](https://github.com/simulate-digital-rail/demo) | [~= 2.0](https://github.com/simulate-digital-rail/demo/tree/v2.0) | [~= 3.0](https://github.com/simulate-digital-rail/demo/tree/yaramo2) |
+| [interlocking](https://github.com/simulate-digital-rail/interlocking) | [~= 4.0](https://github.com/simulate-digital-rail/interlocking/tree/v4.0) | [~= 5.1](https://github.com/simulate-digital-rail/interlocking/) |
+| [interlocking-logic-monitor](https://github.com/simulate-digital-rail/interlocking-logic-monitor) | [~= 2.0](https://github.com/simulate-digital-rail/interlocking-logic-monitor/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/interlocking-logic-monitor/) |
+| [demo](https://github.com/simulate-digital-rail/demo) | [~= 2.0](https://github.com/simulate-digital-rail/demo/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/demo/) |
 | [sumo-railway-test-controller](https://github.com/simulate-digital-rail/sumo-railway-test-controller) | Not yet supported | Maybe future support |
 
 ## Publications
