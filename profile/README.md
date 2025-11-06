@@ -33,7 +33,7 @@ The current version of the environment is the yaramo 1 version. Version 2 of the
 | [schematic-converter](https://github.com/simulate-digital-rail/schematic-converter) | Not supported | [~= 1.1](https://github.com/simulate-digital-rail/schematic-converter) |
 | [planpro-exporter](https://github.com/simulate-digital-rail/planpro-exporter) | [~= 2.0](https://github.com/simulate-digital-rail/planpro-exporter/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/planpro-exporter/) |
 | [sumo-exporter](https://github.com/simulate-digital-rail/sumo-exporter) | [~= 3.0](https://github.com/simulate-digital-rail/sumo-exporter/tree/v3.0) | [~= 4.1](https://github.com/simulate-digital-rail/sumo-exporter/) |
-| [railml-exporter](https://github.com/simulate-digital-rail/railml-exporter) | [~= 1.0](https://github.com/simulate-digital-rail/railml-exporter/tree/v1.0) | Not yet implemented |
+| [railml-exporter](https://github.com/simulate-digital-rail/railml-exporter) | [~= 1.0](https://github.com/simulate-digital-rail/railml-exporter/tree/v1.0) | [~=2.0](https://github.com/simulate-digital-rail/railml-exporter) |
 | [tikz-exporter](https://github.com/simulate-digital-rail/tikz-exporter) | Not supported | [~= 1.0](https://github.com/simulate-digital-rail/tikz-exporter) |
 | [interlocking](https://github.com/simulate-digital-rail/interlocking) | [~= 4.0](https://github.com/simulate-digital-rail/interlocking/tree/v4.0) | [~= 5.1](https://github.com/simulate-digital-rail/interlocking/) |
 | [interlocking-logic-monitor](https://github.com/simulate-digital-rail/interlocking-logic-monitor) | [~= 2.0](https://github.com/simulate-digital-rail/interlocking-logic-monitor/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/interlocking-logic-monitor/) |
