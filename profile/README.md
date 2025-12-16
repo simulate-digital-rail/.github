@@ -38,7 +38,7 @@ The current version of the environment is the yaramo 1 version. Version 2 of the
 | [interlocking](https://github.com/simulate-digital-rail/interlocking) | [~= 4.0](https://github.com/simulate-digital-rail/interlocking/tree/v4.0) | [~= 5.1](https://github.com/simulate-digital-rail/interlocking/) |
 | [interlocking-logic-monitor](https://github.com/simulate-digital-rail/interlocking-logic-monitor) | [~= 2.0](https://github.com/simulate-digital-rail/interlocking-logic-monitor/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/interlocking-logic-monitor/) |
 | [demo](https://github.com/simulate-digital-rail/demo) | [~= 2.0](https://github.com/simulate-digital-rail/demo/tree/v2.0) | [~= 3.1](https://github.com/simulate-digital-rail/demo/) |
-| [sumo-railway-test-controller](https://github.com/simulate-digital-rail/sumo-railway-test-controller) | Not yet supported | Maybe future support |
+| [sumo-railway-test-controller](https://github.com/simulate-digital-rail/sumo-railway-test-controller) | Not yet supported | [~= 1.0](https://github.com/simulate-digital-rail/sumo-railway-test-controller) |
 
 ## Publications
 Read this publication for more details about the yaramo model and environment:
